@@ -1,1 +1,1 @@
-pulic class{}
+public class{}
